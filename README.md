@@ -1,5 +1,4 @@
-
-[7:48 PM, 5/13/2024] Asad PIAIC: ![MasterHead](https://media.licdn.com/dms/image/D5616AQGrg0rj6aWMZw/profile-displaybackgroundimage-shrink_200_800/0/1693927068888?e=2147483647&v=beta&t=hU3MpMQHzamYQeZZEm5IcEFbauLjLJ8OQw4AIw_rLAA)
+ ![MasterHead](https://media.licdn.com/dms/image/D5616AQGrg0rj6aWMZw/profile-displaybackgroundimage-shrink_200_800/0/1693927068888?e=2147483647&v=beta&t=hU3MpMQHzamYQeZZEm5IcEFbauLjLJ8OQw4AIw_rLAA)
 <h1 align=" center">Hi 👋, I'm MUZAMMIL MAZHAR</h1>
 <h2 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
